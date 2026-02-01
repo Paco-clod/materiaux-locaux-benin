@@ -1,7 +1,6 @@
 {
   "name": "materiaux-locaux-benin",
   "version": "1.0.0",
-  "homepage": "https://Paco-clod.github.io/materiaux-locaux-benin",
   "private": true,
   "dependencies": {
     "lucide-react": "^0.263.1",
