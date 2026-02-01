@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/materiaux-locaux-benin/static/js/main.38680b2a.js",
-    "index.html": "/materiaux-locaux-benin/index.html",
-    "main.38680b2a.js.map": "/materiaux-locaux-benin/static/js/main.38680b2a.js.map"
+    "main.js": "/static/js/main.38680b2a.js",
+    "index.html": "/index.html",
+    "main.38680b2a.js.map": "/static/js/main.38680b2a.js.map"
   },
   "entrypoints": [
     "static/js/main.38680b2a.js"
