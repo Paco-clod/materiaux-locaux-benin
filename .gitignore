@@ -1,0 +1,11 @@
+# Node
+node_modules/
+build/
+
+# VS Code / Visual Studio
+.vs/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
